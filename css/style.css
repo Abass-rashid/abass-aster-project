@@ -1,0 +1,7 @@
+@media (max_width:460px)
+{
+    body {
+background-color: gray;
+color: white;
+    }
+}
